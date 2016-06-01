@@ -3,6 +3,7 @@
 Lambda function containing the Alexa Skill to Control the IoTbot using an Amazon Echo.
 
 Handler: index.handler
+
 Role: 
 ```
 {
